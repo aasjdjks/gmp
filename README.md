@@ -1,3 +1,2 @@
-# gmp
-
-Git Test
+# Git Test
+- Bug fixed
